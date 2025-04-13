@@ -2,6 +2,12 @@
 # Image Enhancement App 🔍✨
 
 This React application allows users to upload images and receive enhanced versions using a third-party AI-based image enhancement API.
+### Live Link
+
+```bash
+https://venerable-lebkuchen-de9684.netlify.app/
+```
+
 
 ## 🚀 Features
 
@@ -74,7 +80,7 @@ See `.env.example` for reference.
 - React.js
 - Axios
 - Vite
-- Tailwind CSS (if used)
+- Tailwind CSS
 
 ---
 
