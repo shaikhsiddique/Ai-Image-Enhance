@@ -4,9 +4,8 @@
 This React application allows users to upload images and receive enhanced versions using a third-party AI-based image enhancement API.
 ### Live Link
 
-```bash
-https://venerable-lebkuchen-de9684.netlify.app/
-```
+🚀 [Live Demo](https://darling-pixie-47dc79.netlify.app/)
+
 
 
 ## 🚀 Features
