@@ -1,7 +1,10 @@
 
 # Image Enhancement App 🔍✨
 
+![Screenshot](https://drive.google.com/uc?id=1UKS4PM7bw0z5u4cqSEbVHwigzPxLS40v)
+
 This React application allows users to upload images and receive enhanced versions using a third-party AI-based image enhancement API.
+
 ### Live Link
 
 🚀 [Live Demo](https://darling-pixie-47dc79.netlify.app/)
